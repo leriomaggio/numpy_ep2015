@@ -1,0 +1,10 @@
+ipython==3.2.1
+Jinja2==2.7.3
+jsonschema==2.5.1
+notebook-viewer==1.0.1
+numpy==1.9.2
+pandas==0.16.2
+pyzmq==14.7.0
+scikit-learn==0.16.1
+tornado==4.2.1
+zope.deprecation==4.1.2
